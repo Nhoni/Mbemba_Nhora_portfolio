@@ -2,10 +2,9 @@
 title: EcoMove logo
 publishDate: 2019-10-02 00:00:00
 img: /assets/ecomove_logo.png
-img_alt: Soft pink and baby blue water ripples together in a subtle texture.
+img_alt: ecomove logo
 description: |
-  We developed brand positioning and design assets for the launch
-  of a new colored water product.
+  Création d'un logo
 tags:
   - Design
   - logo

@@ -10,7 +10,7 @@ tags:
   - intégration web
 ---
 
-L<a href="https://portfolio-iota-one-22.vercel.app/">Un portfolio</a> 
+<a href="https://portfolio-iota-one-22.vercel.app/">Un portfolio</a> 
 
 Portfolio : Un Exercice d'Intégration Web
 Contexte du Projet
