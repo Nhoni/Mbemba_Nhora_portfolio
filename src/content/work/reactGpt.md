@@ -2,34 +2,38 @@
 title: reactGpt
 publishDate: 2020-03-02 00:00:00
 img: /assets/reactGpt.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: reactgpt image
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  recherche d'un sujet sur react
 tags:
-  - Design
   - Dev
-  - User Testing
+  - Backnd 
+  - IA 
+  - Chat GPT 4
 ---
 
-## Level-two heading
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+<a href="https://cda-tp-validation-1.vercel.app/">ReactGPT</a> 
 
-Lorem ipsum dolor sit amet, <a href="https://cda-tp-validation-1.vercel.app/">ReactGPT</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+React GPT : Un Projet de Moteur de Recherche pour les Développeurs React
+Contexte du Projet
+React GPT a été développé dans le cadre d’un TD lors d'une formation en développement web, avec l’aide et les conseils d’un formateur expérimenté. Le projet visait à créer un moteur de recherche intelligent pour les développeurs, dédié au framework JavaScript React, en s’appuyant sur les capacités de ChatGPT pour fournir des réponses instantanées et pertinentes.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+Objectifs et Apprentissage
+L’objectif principal de ce projet était de renforcer les compétences en développement web tout en découvrant comment intégrer une intelligence conversationnelle pour résoudre des problèmes de programmation. Grâce à l’encadrement du formateur, j'ai pu :
 
-### Level-three heading
+Comprendre comment utiliser des API de traitement du langage naturel (comme celle de ChatGPT) pour répondre aux requêtes des utilisateurs.
+Apprendre à structurer une application React afin d’intégrer des fonctionnalités de recherche dynamique.
+Expérimenter avec des fonctionnalités avancées de React, comme les hooks et le state management, pour gérer les interactions avec les utilisateurs.
+Fonctionnalités de React GPT
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+Recherche ciblée sur les concepts de React : Permet de poser des questions sur différents aspects du framework (composants, hooks, state, etc.) et d'obtenir des explications.
+Génération d'exemples de code : Fournit des extraits de code accompagnés d'explications, pour faciliter l'apprentissage pratique.
+Assistance au débogage : Répond aux problèmes rencontrés par les développeurs, avec des suggestions sur les erreurs courantes et les solutions possibles.
+Ce projet a non seulement permis d’approfondir mes connaissances en React, mais aussi d'apprendre à intégrer une intelligence artificielle dans une application réelle.
 
-### Level-three heading
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
 
-#### Level-four heading
 
-- We noted this
-- And also this other point
+
